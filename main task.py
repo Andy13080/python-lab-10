@@ -118,4 +118,3 @@ for text in rec.listen():
         response = process_command(text)
         print("Assistant:", response)
         speech.text2voice(response)
-..
