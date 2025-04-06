@@ -78,4 +78,4 @@ while True:
     print("Listening for command...")
     command = listen()
     print(f"Command received: {command}")
-    process_command(command).
+    process_command(command)
